@@ -1,0 +1,15 @@
+/*#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}*/
+
+.principal{
+  position: relative;
+  width: 90%;
+  height: auto;
+  background-color: rgb(205, 137, 201);
+  margin: auto;
+}
+
